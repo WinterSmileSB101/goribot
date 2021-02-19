@@ -1,10 +1,10 @@
-module github.com/zhshch2002/goribot
+module github.com/WinterSmileSB101/goribot
 
-go 1.14
+go 1.16
 
 require (
 	github.com/PuerkitoBio/goquery v1.5.0
-	github.com/go-redis/redis v6.15.7+incompatible
+	github.com/go-redis/redis v8.5.0+incompatible
 	github.com/gobwas/glob v0.2.3
 	github.com/onsi/ginkgo v1.12.0 // indirect
 	github.com/onsi/gomega v1.9.0 // indirect
